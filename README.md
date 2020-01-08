@@ -4,7 +4,7 @@ Google Chrome Extension: Task manager in new browser tab. Data stores in localst
 
 Work in progress
 
-Todo:
+## Todo:
 
 * ~~Colors for projects cards~~
 * ~~Inline edit tasks~~
