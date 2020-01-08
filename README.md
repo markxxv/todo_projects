@@ -1,6 +1,6 @@
 # Task manager (todo) in new chrome tab
 
-Google Chrome Extension: Task manager in your new tab. Data stores in localstorage. 
+Google Chrome Extension: Task manager in new browser tab. Data stores in localstorage. 
 
 Work in progress
 
@@ -12,3 +12,6 @@ Todo:
 * ~~Drag to sort projects~~
 * Autogrow task edit textarea
 * Sync to Google storage API
+
+
+![Google Chrome Extension: Task manager](https://vivasart.com/sites/default/files/todo03.jpg "Task manager in new tab")
