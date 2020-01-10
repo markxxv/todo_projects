@@ -10,7 +10,7 @@ Work in progress
 * ~~Inline edit tasks~~
 * ~~Drag to sort tasks~~
 * ~~Drag to sort projects~~
-* Autogrow task edit textarea
+* ~~Autogrow task edit textarea~~
 * Sync to Google storage API
 
 
