@@ -9,6 +9,7 @@
     <script src="js/vuetify.js"></script>
     <script src="js/sortable.js"></script>
     <script src="js/draggable.js"></script>
+    <script src="js/textarea_expander.js"></script>
     <link rel="stylesheet" href="css/app.css">
 </head>
 <body>
@@ -59,15 +60,13 @@
                             true-value="completed"
                             false-value="open"
                         >
-                        <!-- <input
-                            type="text"
-                            v-model="task.title"
-                            class="task"
-                        > -->
+                        <resizable-textarea>
                         <textarea
                             v-model="task.title"
                             class="task"
+                            rows="1"
                         ></textarea>
+                        </resizable-textarea>
                         <button class="destroy" @click="removeTask(card, task)"></button>
                     </li>
                     </draggable>
