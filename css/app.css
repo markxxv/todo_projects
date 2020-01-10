@@ -134,6 +134,7 @@ h1 {
     padding: 7px 0;
     flex: 1;
     color: inherit;
+    resize: none;
 }
 .card ul li .task:focus {
     outline: none;
