@@ -2,6 +2,8 @@
 
 Google Chrome Extension: Task manager in new browser tab. Data stores in localstorage. 
 
+[Demo](https://markxxv.github.io/todo_projects/)
+
 Work in progress
 
 ## Todo:
