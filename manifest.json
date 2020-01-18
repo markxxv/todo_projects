@@ -8,7 +8,7 @@
 		"default_icon": "img/icon_128.png"
     },
     "chrome_url_overrides": {
-        "newtab": "app.html"
+        "newtab": "index.html"
     },
 	"permissions": ["storage", "tabs"],
 	"content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
