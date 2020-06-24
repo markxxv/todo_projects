@@ -135,6 +135,7 @@ h1 {
     flex: 1;
     color: inherit;
     resize: none;
+    font-family: inherit;
 }
 .card ul li .task:focus {
     outline: none;
